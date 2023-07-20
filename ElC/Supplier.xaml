@@ -1,0 +1,401 @@
+﻿<UserControl x:Class="ElC.Supplier"
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+xmlns:local="clr-namespace:ElC" xmlns:Icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+mc:Ignorable="d" 
+d:DesignHeight="450" d:DesignWidth="900">
+
+    <Border BorderBrush="#7B8FA1" BorderThickness="5" CornerRadius="25" Background="#BDCDD6">
+        <Grid >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="279*"/>
+                <RowDefinition Height="161*"/>
+            </Grid.RowDefinitions>
+            <Border Margin="4,4,4,4"
+BorderBrush="White"
+BorderThickness="1,1,1,1"
+CornerRadius="40" Grid.RowSpan="2">
+
+                <Grid >
+
+                    <Border Margin="1"
+BorderBrush="White"
+BorderThickness="1,1,1,1"
+CornerRadius="20">
+
+                        <Grid Margin="5">
+
+
+                            <Grid.RowDefinitions>
+
+                                <RowDefinition Height="0.3*">
+
+                                </RowDefinition>
+
+                                <RowDefinition Height="0.3*">
+
+                                </RowDefinition>
+
+
+                                <RowDefinition Height="1.7*">
+
+                                </RowDefinition>
+                                <RowDefinition Height="0.3*">
+
+                                </RowDefinition>
+
+                            </Grid.RowDefinitions>
+
+                            <!--Start Row 0-->
+                            <Grid Grid.Row="0" >
+
+                                <Grid.ColumnDefinitions>
+
+
+                                    <ColumnDefinition >
+
+                                    </ColumnDefinition>
+                                    <ColumnDefinition >
+
+                                    </ColumnDefinition>
+
+
+                                    <ColumnDefinition >
+
+                                    </ColumnDefinition>
+
+
+
+
+                                </Grid.ColumnDefinitions>
+
+                                <Grid Grid.Column="0" >
+
+                                    <CheckBox Foreground="Black" Name="CheckedBox" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="30,5,0,0" FontSize="18" FontFamily="MV Boli" FontWeight="DemiBold" Checked="CheckedBox_Checked" >New Category</CheckBox>
+
+                                </Grid>
+
+                                <Grid Grid.Column="1" >
+                                    <TextBlock Foreground="Black"  VerticalAlignment="Center" FontSize="18" FontFamily="MV Boli" FontWeight="DemiBold">Category</TextBlock>
+                                    <ComboBox Name="CategoriesName" Margin="80,0,0,0" Width="150" Height="25" SelectionChanged="CategoriesName_SelectionChanged"  ></ComboBox>
+
+                                </Grid>
+
+                                <Grid Grid.Column="2" Name="SelectedType" Visibility="Hidden">
+                                    <TextBlock  VerticalAlignment="Center" FontSize="18" FontFamily="MV Boli" FontWeight="DemiBold">Type</TextBlock>
+                                    <ComboBox Name="TypeName" Margin="45,0,0,0"  Width="150" Height="25" SelectionChanged="TypeName_SelectionChanged" ></ComboBox>
+
+                                </Grid>
+
+
+
+
+
+
+                            </Grid>
+
+                            <Grid Grid.Row="1">
+                                <StackPanel Name="AddNewCategory" Visibility="Hidden" HorizontalAlignment="Center" Orientation="Horizontal">
+                                    <TextBlock VerticalAlignment="Center" FontSize="18" FontFamily="MV Boli" FontWeight="DemiBold">New Category</TextBlock>
+                                    <TextBox   Name="CategoryName" Width="260" Height="35"  ></TextBox>
+                                    <Button Name="NewCategory" Height="35" FontSize="18" FontFamily="MV Boli" FontWeight="DemiBold" Click="NewCategory_Click">Add</Button>
+                                </StackPanel>
+
+                            </Grid>
+
+                            <Grid Grid.Row="1" Grid.RowSpan="5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="0.5*">
+
+                                    </ColumnDefinition>
+                                    <ColumnDefinition Width="1.7*">
+
+                                    </ColumnDefinition>
+
+                                </Grid.ColumnDefinitions>
+
+
+                                <Grid Grid.Column="0" >
+
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition>
+
+                                        </RowDefinition>
+                                        <RowDefinition>
+
+                                        </RowDefinition>
+                                        <RowDefinition>
+
+                                        </RowDefinition>
+                                        <RowDefinition>
+
+                                        </RowDefinition>
+                                        <RowDefinition>
+
+                                        </RowDefinition>
+
+                                        <RowDefinition>
+
+                                        </RowDefinition>
+                                        <RowDefinition>
+
+                                        </RowDefinition>
+
+                                    </Grid.RowDefinitions>
+
+                                    <Grid Grid.Row="0" HorizontalAlignment="Left" >
+                                        <TextBlock Foreground="Black"  HorizontalAlignment="Left" FontSize="18" FontFamily="MV Boli" FontWeight="DemiBold" Margin=" 0 0 0  0"> Type</TextBlock>
+                                        <TextBox Name="ProductType" Margin="0,30,0,0" HorizontalAlignment="Left"  Width="150" Height="30" BorderBrush="#7B8FA1" BorderThickness="3"></TextBox>
+
+                                    </Grid>
+                                    <Grid Grid.Row="1" HorizontalAlignment="Left" >
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="3*"/>
+                                            <ColumnDefinition Width="2*"/>
+                                        </Grid.ColumnDefinitions>
+                                        <TextBlock Foreground="Black"  HorizontalAlignment="Left" FontSize="18" FontFamily="MV Boli" FontWeight="DemiBold"> Name</TextBlock>
+                                        <TextBox Name="ProductName" Margin="0,30,0,-9" HorizontalAlignment="Left"  Height="30" Width="150" Grid.ColumnSpan="2" BorderBrush="#7B8FA1" BorderThickness="3" ></TextBox>
+
+                                    </Grid>
+                                    <!--<Grid Grid.Row="2" HorizontalAlignment="Left" >
+
+                                    <TextBlock   HorizontalAlignment="Left" FontSize="18" FontFamily="MV Boli" FontWeight="DemiBold"> Supplier Name</TextBlock>
+                                    <TextBox Name="ProductSupplierName" Margin="0,25,0,0" HorizontalAlignment="Left" Height="30" Width="150" ></TextBox>
+
+                                </Grid>-->
+
+                                    <Grid Grid.Row="2" >
+                                        <TextBlock Foreground="Black"  HorizontalAlignment="Left" FontSize="18" FontFamily="MV Boli" FontWeight="DemiBold"> Description</TextBlock>
+                                        <TextBox Name="ProductDescription" Margin="0,30,0,0" HorizontalAlignment="Left" Height="30"  Width="150" BorderBrush="#7B8FA1" BorderThickness="3" ></TextBox>
+
+                                    </Grid>
+
+                                    <Grid Grid.Row="3" HorizontalAlignment="Left" >
+                                        <TextBlock Foreground="Black"  HorizontalAlignment="Left" FontSize="18" FontFamily="MV Boli" FontWeight="DemiBold"> Quantity</TextBlock>
+                                        <TextBox Name="ProductQuantity" Margin="0,30,0,0" HorizontalAlignment="Center" Height="30" Width="150" BorderBrush="#7B8FA1" BorderThickness="3" ></TextBox>
+
+                                    </Grid>
+
+
+                                    <Grid Grid.Row="4" HorizontalAlignment="Left" >
+                                        <TextBlock Foreground="Black"  HorizontalAlignment="Left" FontSize="18" FontFamily="MV Boli" FontWeight="DemiBold"> Price</TextBlock>
+                                        <TextBox Name="ProductPrice" Margin="0,25,0,0" HorizontalAlignment="Center"  Width="150" Height="30" BorderBrush="#7B8FA1" BorderThickness="3" ></TextBox>
+
+                                    </Grid>
+
+
+
+
+                                </Grid>
+
+                                <Grid Grid.Column="1" Grid.Row="2" Grid.RowSpan="2" VerticalAlignment="Top" Margin="0,50,0,0">
+
+                                    <StackPanel>
+
+                                        <DataGrid Margin=" 0 8 8 8"  Name="ShowItem" CanUserAddRows="False"  AutoGenerateColumns="False" ColumnWidth="*"
+                                                Background="Wheat"
+                                                BorderThickness="0"
+                                                MaxHeight="200"
+                                                  ScrollViewer.VerticalScrollBarVisibility="Auto"
+GridLinesVisibility="None" SelectionChanged="ShowItem_SelectionChanged"   >
+
+                                            <DataGrid.Columns >
+
+
+                                                <DataGridTextColumn Header="ProductName" Binding="{Binding Name}" IsReadOnly="True" Width="1.1*"/>
+                                                <!--<DataGridTextColumn Header="Category" Binding="{Binding Category.Name}" IsReadOnly="True" Width="1*"/>-->
+                                                <DataGridTextColumn Header="ProductType" Binding="{Binding Type}" IsReadOnly="True" Width="1*"/>
+                                                <DataGridTextColumn Header="ProductDescription" Binding="{Binding Description}" IsReadOnly="True" Width="1.5*"/>
+                                                <DataGridTextColumn Header="ProductQuantity" Binding="{Binding Quantaty}" IsReadOnly="True" Width="1.59*"/>
+                                                <DataGridTextColumn Header="ProductPrice" Binding="{Binding BuyPrice}" IsReadOnly="True" Width="1.3*"/>
+                                            </DataGrid.Columns>
+                                        </DataGrid>
+                                        <!--/////////////////////////////-->
+                                        <!--Updat Grid-->
+                                        <DataGrid  Name="CartGrid" CanUserAddRows="False"   AutoGenerateColumns="False" ColumnWidth="*"
+Background="Wheat"
+BorderThickness="0"
+GridLinesVisibility="None">
+
+
+                                            <DataGrid.Columns >
+
+
+                                                <DataGridTextColumn Header="ProductName" Binding="{Binding Name}" IsReadOnly="True" Width="1.1*"/>
+                                                <DataGridTextColumn Header="ProductType" Binding="{Binding Type}" IsReadOnly="True" Width="1*"/>
+                                                <DataGridTextColumn Header="Description" Binding="{Binding Description}" IsReadOnly="True" Width="1.1*"/>
+                                                <DataGridTextColumn Header="Quantity" Binding="{Binding Quantaty}" IsReadOnly="True" Width="1*"/>
+                                                <DataGridTextColumn Header="ProductPrice" Binding="{Binding BuyPrice}" IsReadOnly="True" Width="1*"/>
+
+                                                <!--Operations-->
+                                                <DataGridTemplateColumn  IsReadOnly="True" Width="0.45*">
+                                                    <DataGridTemplateColumn.CellTemplate>
+                                                        <DataTemplate>
+                                                            <StackPanel Orientation="Horizontal">
+
+
+                                                                <Border Grid.Row="2" Margin="2" Visibility="Visible" Name="Pupdate" >
+                                                                    <Canvas  Height="30" HorizontalAlignment="Left"  Name="U" >
+                                                                        <Ellipse
+Width="28"
+Height="28"
+Fill="#FF3A3845"
+/>
+                                                                        <!--Update-->
+                                                                        <Button 
+    Name="UpdateIcon" Click="UpdateIcon_Click"
+Background="Transparent" BorderThickness="0" >
+
+                                                                            <Icon:PackIconMaterial Kind="PencilOutline"
+                                                                               
+Foreground="YellowGreen" 
+FontSize="10"
+Width="20"
+Height="20"
+Margin="2 0 70 7">
+
+
+                                                                            </Icon:PackIconMaterial>
+
+                                                                        </Button>
+
+
+                                                                    </Canvas>
+                                                                </Border>
+                                                            </StackPanel>
+                                                            <!--///////////////////////////////////////-->
+
+                                                        </DataTemplate>
+                                                    </DataGridTemplateColumn.CellTemplate>
+                                                </DataGridTemplateColumn>
+
+                                                <DataGridTemplateColumn IsReadOnly="True" Width="0.45*">
+                                                    <DataGridTemplateColumn.CellTemplate>
+                                                        <DataTemplate>
+                                                            <StackPanel Orientation="Horizontal">
+
+
+                                                                <Border Grid.Row="2" Margin="2" Visibility="Visible" Name="Pupdate" >
+                                                                    <Canvas  Height="30" HorizontalAlignment="Left"  Name="U" >
+                                                                        <Ellipse
+Width="28"
+Height="28"
+Fill="#FF3A3845"
+/>
+                                                                        <Button Name="DeleteProduct"  Click="DeleteProduct_Click"
+Background="Transparent" BorderThickness="0" >
+
+                                                                            <Icon:PackIconMaterial Kind="Delete"
+                                                                               
+Foreground="YellowGreen" 
+FontSize="10"
+Width="20"
+Height="20"
+Margin="2 0 70 7">
+
+
+
+                                                                            </Icon:PackIconMaterial>
+                                                                        </Button>
+
+
+                                                                    </Canvas>
+                                                                </Border>
+                                                            </StackPanel>
+                                                            <!--///////////////////////////////////////-->
+
+                                                        </DataTemplate>
+
+                                                    </DataGridTemplateColumn.CellTemplate>
+                                                </DataGridTemplateColumn>
+                                            </DataGrid.Columns>
+                                        </DataGrid>
+                                        <!--<DataGrid Name="ProductsGrid" Margin="10" Width="550" Height="120" HorizontalAlignment="Center" VerticalAlignment="Center" SelectionChanged="ProductsGrid_SelectionChanged" />-->
+
+                                        <!--<DataGrid Name="CartGrid" Margin="10" Width="550" Height="120" HorizontalAlignment="Center" VerticalAlignment="Top" />-->
+                                    </StackPanel>
+                                </Grid>
+
+
+
+                            </Grid>
+                            <!--End Row 2-->
+
+                            <Grid Grid.Row="3" >
+
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition >
+
+                                    </ColumnDefinition>
+                                    <ColumnDefinition >
+
+                                    </ColumnDefinition>
+                                    <ColumnDefinition >
+
+                                    </ColumnDefinition>
+
+                                </Grid.ColumnDefinitions>
+
+
+                                <Grid Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" >
+
+
+                                    <Button Name="AddProductToCart" Margin="10,0,0,0" FontSize="18" FontFamily="MV Boli" FontWeight="DemiBold" Height="35" VerticalAlignment="Center" Click="AddProductToCart_Click" >Save</Button>
+
+                                </Grid>
+                                <Grid Grid.Column="1">
+                                    <Button Name="UpdateProduct" FontSize="18" FontFamily="MV Boli" FontWeight="DemiBold" HorizontalAlignment="Center" Height="35" VerticalAlignment="Center" Click="UpdateProduct_Click" >Update</Button>
+
+                                </Grid>
+                                <Grid  Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center" >
+
+
+                                    <Button Name="Payment" FontSize="18" FontFamily="MV Boli" FontWeight="DemiBold" HorizontalAlignment="Left" Height="35" VerticalAlignment="Top" Click="Payment_Click" >Pay</Button>
+
+                                </Grid>
+
+                            </Grid>
+
+                            <Grid.Resources>
+                                <Style TargetType="Button">
+                                    <Style.Setters>
+                                        <Setter
+Property="Background" Value="#7B8FA1"
+>
+                                        </Setter>
+                                        <Setter
+Property="BorderThickness" Value="1"
+>
+                                        </Setter>
+                                        <Setter
+Property="Width" Value="100"
+>
+                                        </Setter>
+                                        <Setter
+Property="Foreground" Value="White"
+>
+                                        </Setter>
+                                        <Setter
+Property="Height" Value="35"
+>
+                                        </Setter>
+                                    </Style.Setters>
+                                    <Style.Triggers>
+
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" Value="#FFE15D"></Setter>
+                                            <Setter Property="Cursor" Value="Hand"></Setter>
+                                            <Setter  Property="Foreground" Value="#FF3A3845"></Setter>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Grid.Resources>
+                        </Grid>
+                    </Border>
+                </Grid>
+            </Border>
+        </Grid>
+    </Border>
+</UserControl>

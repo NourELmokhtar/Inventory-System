@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ElC</id>
+    <version>1.0.0</version>
+    <authors>ElC</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net7.0-windows7.0">
+        <dependency id="MahApps.Metro.IconPacks.Material" version="4.11.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore" version="7.0.3" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.EntityFrameworkCore.SqlServer" version="7.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net7.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net7.0-windows7.0/electric.png" buildAction="Content" />
+      <files include="any/net7.0-windows7.0/arrow-left.png" buildAction="Content" />
+      <files include="any/net7.0-windows7.0/col.png" buildAction="Content" />
+      <files include="any/net7.0-windows7.0/dd.png" buildAction="Content" />
+      <files include="any/net7.0-windows7.0/e.png" buildAction="Content" />
+      <files include="any/net7.0-windows7.0/ee.png" buildAction="Content" />
+      <files include="any/net7.0-windows7.0/fl.png" buildAction="Content" />
+      <files include="any/net7.0-windows7.0/flo.png" buildAction="Content" />
+      <files include="any/net7.0-windows7.0/iconn.png" buildAction="Content" />
+      <files include="any/net7.0-windows7.0/iconSt.png" buildAction="Content" />
+      <files include="any/net7.0-windows7.0/image.png" buildAction="Content" />
+      <files include="any/net7.0-windows7.0/iso.png" buildAction="Content" />
+      <files include="any/net7.0-windows7.0/left-arrow.png" buildAction="Content" />
+      <files include="any/net7.0-windows7.0/plug.png" buildAction="Content" />
+      <files include="any/net7.0-windows7.0/rr.png" buildAction="Content" />
+      <files include="any/net7.0-windows7.0/s.png" buildAction="Content" />
+      <files include="any/net7.0-windows7.0/sk.png" buildAction="Content" />
+      <files include="any/net7.0-windows7.0/tt.png" buildAction="Content" />
+      <files include="any/net7.0-windows7.0/vedio.mp4" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ElC.runtimeconfig.json" target="lib\net7.0-windows7.0\ElC.runtimeconfig.json" />
+    <file src="F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ElC.dll" target="lib\net7.0-windows7.0\ElC.dll" />
+    <file src="F:\EDIS\ElC\ElC\electric.png" target="content\electric.png" />
+    <file src="F:\EDIS\ElC\ElC\electric.png" target="contentFiles\any\net7.0-windows7.0\electric.png" />
+    <file src="F:\EDIS\ElC\ElC\arrow-left.png" target="content\arrow-left.png" />
+    <file src="F:\EDIS\ElC\ElC\arrow-left.png" target="contentFiles\any\net7.0-windows7.0\arrow-left.png" />
+    <file src="F:\EDIS\ElC\ElC\col.png" target="content\col.png" />
+    <file src="F:\EDIS\ElC\ElC\col.png" target="contentFiles\any\net7.0-windows7.0\col.png" />
+    <file src="F:\EDIS\ElC\ElC\dd.png" target="content\dd.png" />
+    <file src="F:\EDIS\ElC\ElC\dd.png" target="contentFiles\any\net7.0-windows7.0\dd.png" />
+    <file src="F:\EDIS\ElC\ElC\e.png" target="content\e.png" />
+    <file src="F:\EDIS\ElC\ElC\e.png" target="contentFiles\any\net7.0-windows7.0\e.png" />
+    <file src="F:\EDIS\ElC\ElC\ee.png" target="content\ee.png" />
+    <file src="F:\EDIS\ElC\ElC\ee.png" target="contentFiles\any\net7.0-windows7.0\ee.png" />
+    <file src="F:\EDIS\ElC\ElC\fl.png" target="content\fl.png" />
+    <file src="F:\EDIS\ElC\ElC\fl.png" target="contentFiles\any\net7.0-windows7.0\fl.png" />
+    <file src="F:\EDIS\ElC\ElC\flo.png" target="content\flo.png" />
+    <file src="F:\EDIS\ElC\ElC\flo.png" target="contentFiles\any\net7.0-windows7.0\flo.png" />
+    <file src="F:\EDIS\ElC\ElC\iconn.png" target="content\iconn.png" />
+    <file src="F:\EDIS\ElC\ElC\iconn.png" target="contentFiles\any\net7.0-windows7.0\iconn.png" />
+    <file src="F:\EDIS\ElC\ElC\iconSt.png" target="content\iconSt.png" />
+    <file src="F:\EDIS\ElC\ElC\iconSt.png" target="contentFiles\any\net7.0-windows7.0\iconSt.png" />
+    <file src="F:\EDIS\ElC\ElC\image.png" target="content\image.png" />
+    <file src="F:\EDIS\ElC\ElC\image.png" target="contentFiles\any\net7.0-windows7.0\image.png" />
+    <file src="F:\EDIS\ElC\ElC\iso.png" target="content\iso.png" />
+    <file src="F:\EDIS\ElC\ElC\iso.png" target="contentFiles\any\net7.0-windows7.0\iso.png" />
+    <file src="F:\EDIS\ElC\ElC\left-arrow.png" target="content\left-arrow.png" />
+    <file src="F:\EDIS\ElC\ElC\left-arrow.png" target="contentFiles\any\net7.0-windows7.0\left-arrow.png" />
+    <file src="F:\EDIS\ElC\ElC\plug.png" target="content\plug.png" />
+    <file src="F:\EDIS\ElC\ElC\plug.png" target="contentFiles\any\net7.0-windows7.0\plug.png" />
+    <file src="F:\EDIS\ElC\ElC\rr.png" target="content\rr.png" />
+    <file src="F:\EDIS\ElC\ElC\rr.png" target="contentFiles\any\net7.0-windows7.0\rr.png" />
+    <file src="F:\EDIS\ElC\ElC\s.png" target="content\s.png" />
+    <file src="F:\EDIS\ElC\ElC\s.png" target="contentFiles\any\net7.0-windows7.0\s.png" />
+    <file src="F:\EDIS\ElC\ElC\sk.png" target="content\sk.png" />
+    <file src="F:\EDIS\ElC\ElC\sk.png" target="contentFiles\any\net7.0-windows7.0\sk.png" />
+    <file src="F:\EDIS\ElC\ElC\tt.png" target="content\tt.png" />
+    <file src="F:\EDIS\ElC\ElC\tt.png" target="contentFiles\any\net7.0-windows7.0\tt.png" />
+    <file src="F:\EDIS\ElC\ElC\vedio.mp4" target="content\vedio.mp4" />
+    <file src="F:\EDIS\ElC\ElC\vedio.mp4" target="contentFiles\any\net7.0-windows7.0\vedio.mp4" />
+  </files>
+</package>

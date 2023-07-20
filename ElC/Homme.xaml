@@ -1,0 +1,344 @@
+﻿<UserControl x:Class="ElC.Homme"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ElC"
+             xmlns:icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+             xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+             mc:Ignorable="d" 
+             d:DesignHeight="700" d:DesignWidth="900">
+    <!--<Viewbox HorizontalAlignment="Center" >-->
+    <Grid  Background="White" Margin="0,0,0,3">
+        <!--<Grid.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFB1BCE6"/>
+                    <GradientStop Color="#FF9A86A4" Offset="1"/>
+                    <GradientStop Color="#FFF1F0C0" Offset="0.614"/>
+                </LinearGradientBrush>
+            </Grid.Background>-->
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="240"></ColumnDefinition>
+
+            <ColumnDefinition ></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition></RowDefinition>
+
+        </Grid.RowDefinitions>
+
+
+
+
+        <Grid Grid.Column="0" Grid.Row="0" Grid.RowSpan="3" Grid.ColumnSpan="2" HorizontalAlignment="Left" Width="230" Margin=" 0 0 0 0">
+            <Border CornerRadius="0 70 5 25 " >
+                <Border.BorderBrush>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black"/>
+                        <GradientStop Color="#FF9E9886"/>
+                    </LinearGradientBrush>
+                </Border.BorderBrush>
+                <Border.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="#7B8FA1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+                <Grid VerticalAlignment="Center" HorizontalAlignment="Left">
+                    <ListView Background="Transparent" BorderBrush="Transparent" Height="550" Margin="4 120 0 0">
+                        <Button  Click="Button_Click" >
+                            <WrapPanel >
+                                <icon:PackIconMaterial Kind="Home"
+                                                Width="40" Height="50" 
+                                                Margin="0 10 0 10" 
+                                                Foreground="#E5D9B6"
+                                               />
+                                <TextBlock VerticalAlignment="Center" HorizontalAlignment="Right" Margin="70 0 0 0" FontSize="25" FontFamily="Forte" Foreground="White">Home</TextBlock>
+                            </WrapPanel>
+                            <Button.Style>
+                                <Style TargetType="Button">
+                                    <Setter Property="Background" Value="Transparent"></Setter>
+                                    <Setter Property="BorderBrush" Value="Transparent"></Setter>
+                                    <Setter Property="BorderThickness" Value="3"></Setter>
+
+
+
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" Value="#B99B6B"></Setter>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border CornerRadius="0" Width="215" Height="70" Margin=" -4 -2 -8 -2" Background="{TemplateBinding Background}">
+                                        <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"></ContentPresenter>
+                                    </Border>
+                                </ControlTemplate>
+                            </Button.Template>
+                        </Button>
+
+                        <Button  Click="Button_Click_2">
+                            <WrapPanel>
+                                <icon:PackIconMaterial Kind="AccountDetails"  Width="40" Height="50" Margin="0 10 0 10" Foreground="#E5D9B6"/>
+
+                                <TextBlock VerticalAlignment="Center" HorizontalAlignment="Right" Margin="40 0 0 0" FontSize="25" Foreground="White" FontFamily="Forte">New Supp</TextBlock>
+                            </WrapPanel>
+                            <Button.Style>
+                                <Style TargetType="Button">
+                                    <Setter Property="Background" Value="Transparent"></Setter>
+                                    <Setter Property="BorderBrush" Value="Transparent"></Setter>
+                                    <Setter Property="BorderThickness" Value="3"></Setter>
+
+
+
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" Value="#B99B6B"></Setter>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border CornerRadius="0" Width="215" Height="70" Margin=" -4 -2 -8 -2" Background="{TemplateBinding Background}">
+                                        <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"></ContentPresenter>
+                                    </Border>
+                                </ControlTemplate>
+                            </Button.Template>
+                        </Button>
+
+                        <Button  Name="SupplierProducts" Click="SupplierProducts_Click"  Width="200">
+                            <WrapPanel>
+                                <icon:PackIconMaterial Kind="TruckDelivery"  Width="40" Height="50" Margin="0 10 0 10"  Foreground="#E5D9B6" />
+                                <TextBlock VerticalAlignment="Center" HorizontalAlignment="Right" Margin="60 0 0 0" FontSize="25" Foreground="White" FontFamily="Forte">Product</TextBlock>
+                            </WrapPanel>
+                            <Button.Style>
+                                <Style TargetType="Button">
+                                    <Setter Property="Background" Value="Transparent"></Setter>
+                                    <Setter Property="BorderBrush" Value="Transparent"></Setter>
+                                    <Setter Property="BorderThickness" Value="3"></Setter>
+
+
+
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" Value="#B99B6B"></Setter>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border CornerRadius="0" Width="215" Height="70" Margin=" -4 -2 -8 -2" Background="{TemplateBinding Background}">
+                                        <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"></ContentPresenter>
+                                    </Border>
+                                </ControlTemplate>
+                            </Button.Template>
+                        </Button>
+
+                        <!--<Button  Click="Button_Click">
+                            <WrapPanel>
+                                <icon:PackIconMaterial Kind="TruckDelivery"  Width="40" Height="50" Margin="0 10 0 10" Foreground="#E5D9B6" />
+
+                                <TextBlock VerticalAlignment="Center" HorizontalAlignment="Right" Margin="60 0 0 0" FontSize="25" Foreground="White" FontFamily="Forte">Product</TextBlock>
+                            </WrapPanel>
+                            <Button.Style>
+                                <Style TargetType="Button">
+                                    <Setter Property="Background" Value="Transparent"></Setter>
+                                    <Setter Property="BorderBrush" Value="Transparent"></Setter>
+                                    <Setter Property="BorderThickness" Value="3"></Setter>
+
+
+
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" Value="#B99B6B"></Setter>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border CornerRadius="0" Width="215" Height="70" Margin=" -4 -2 -8 -2" Background="{TemplateBinding Background}">
+                                        <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"></ContentPresenter>
+                                    </Border>
+                                </ControlTemplate>
+                            </Button.Template>
+                        </Button>-->
+
+                        <Button x:Name="btn_report"  Click="btn_report_Click">
+                            <WrapPanel>
+                                <icon:PackIconMaterial Kind="BookAccount"  Width="40" Height="50" Margin="0 10 0 10" Foreground="#E5D9B6" />
+
+                                <TextBlock VerticalAlignment="Center" HorizontalAlignment="Right" Margin="60 0 0 0" FontSize="25" Foreground="White" FontFamily="Forte">Reports</TextBlock>
+                            </WrapPanel>
+                            <Button.Style>
+                                <Style TargetType="Button">
+                                    <Setter Property="Background" Value="Transparent"></Setter>
+                                    <Setter Property="BorderBrush" Value="Transparent"></Setter>
+                                    <Setter Property="BorderThickness" Value="3"></Setter>
+
+
+
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" Value="#B99B6B"></Setter>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border CornerRadius="0" Width="215" Height="70" Margin=" -4 -2 -8 -2" Background="{TemplateBinding Background}">
+                                        <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"></ContentPresenter>
+                                    </Border>
+                                </ControlTemplate>
+                            </Button.Template>
+                        </Button>
+
+                        <Button  x:Name="btn_recovery" Click="btn_recovery_Click">
+                            <WrapPanel>
+                                <icon:PackIconMaterial Kind="RestoreAlert"  Width="40" Height="70" Margin="0 0 60 0" Foreground="#E5D9B6" />
+
+                                <TextBlock VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0 0 0 0" FontSize="24" Foreground="White" FontFamily="Forte">Recovery</TextBlock>
+                            </WrapPanel>
+                            <Button.Style>
+                                <Style TargetType="Button">
+                                    <Setter Property="Background" Value="Transparent"></Setter>
+                                    <Setter Property="BorderBrush" Value="Transparent"></Setter>
+                                    <Setter Property="BorderThickness" Value="3"></Setter>
+
+
+
+                                   <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" Value="#B99B6B"></Setter>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border CornerRadius="0" Width="215" Height="70" Margin=" -4 -2 -8 -2" Background="{TemplateBinding Background}">
+                                        <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"></ContentPresenter>
+                                    </Border>
+                                </ControlTemplate>
+                            </Button.Template>
+                        </Button>
+                        <Button  x:Name="Founding" Margin="0 0 0 0" Click="Founding_Click" >
+                            <WrapPanel>
+                                <icon:PackIconMaterial Kind="SackPercent"  Width="40" Height="70" Margin="0 0 60 0" Foreground="#E5D9B6" />
+
+                                <TextBlock VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0 0 0 0" FontSize="24" Foreground="White" FontFamily="Forte">Founding</TextBlock>
+                            </WrapPanel>
+                            <Button.Style>
+                                <Style TargetType="Button">
+                                    <Setter Property="Background" Value="Transparent"></Setter>
+                                    <Setter Property="BorderBrush" Value="Transparent"></Setter>
+                                    <Setter Property="BorderThickness" Value="3"></Setter>
+
+
+
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" Value="#B99B6B"></Setter>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border CornerRadius="0" Width="215" Height="70" Margin=" -4 -2 -8 -2" Background="{TemplateBinding Background}">
+                                        <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"></ContentPresenter>
+                                    </Border>
+                                </ControlTemplate>
+                            </Button.Template>
+                        </Button>
+
+
+                        <!--<Button  Click="Button_Click"  Background="Transparent" BorderBrush="Transparent" HorizontalAlignment="Center" VerticalAlignment="Center">
+                            <WrapPanel>
+                                <icon:PackIconMaterial Kind="ArrowLeftBoldBox"  Width="40" Height="50" Margin="0 0 0 0" Foreground="#FFBBA26A" />
+
+                            </WrapPanel>
+                        </Button>-->
+                        <Button  x:Name="btnlogout_Click" Click="btnlogout_Click_1" BorderBrush="Transparent" Background="Transparent">
+                            <WrapPanel>
+                                <icon:PackIconMaterial Kind="Login"  Width="40" Height="50" Margin="0 10 0 10" Foreground="#E5D9B6" />
+                            </WrapPanel>
+                            <Button.Style>
+                                <Style TargetType="Button">
+                                    <Setter Property="Background" Value="Transparent"></Setter>
+                                    <Setter Property="BorderBrush" Value="Transparent"></Setter>
+                                    <Setter Property="BorderThickness" Value="3"></Setter>
+
+
+
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" Value="#B99B6B"></Setter>
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border CornerRadius="0" Width="215" Height="70" Margin=" -4 -2 -8 -2" Background="{TemplateBinding Background}">
+                                        <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"></ContentPresenter>
+                                    </Border>
+                                </ControlTemplate>
+                            </Button.Template>
+                        </Button>
+
+                    </ListView>
+                    
+                    
+                    <Ellipse Height="100" Width="100" Grid.Column="0" Grid.Row="0" VerticalAlignment="Top" Margin="10 5 0 0" Stroke="#FFBBA26A" StrokeThickness="3">
+                        <Ellipse.Fill >
+                            <ImageBrush ImageSource="ee.png" />
+                        </Ellipse.Fill>
+                    </Ellipse>
+                </Grid>
+            </Border>
+        </Grid>
+
+
+        <Grid Grid.Row="0"  Grid.Column  ="2" Grid.ColumnSpan="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="19*"/>
+                <ColumnDefinition Width="288*"/>
+                <ColumnDefinition Width="23*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock
+                   TextAlignment="Center"
+                   Text="Electrical Devices Inventory System"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   FontFamily="Cooper Black"
+                   FontSize="30" Grid.Column="1" Grid.Row="0" Margin="0,0,0,0">
+                <TextBlock.Foreground>
+                    <RadialGradientBrush>
+                        <GradientStop Color="#7B8FA1"/>
+                        <GradientStop Color="#7B8FA1" Offset="0.905"/>
+                        <GradientStop Color="#7B8FA1" Offset="0.371"/>
+                    </RadialGradientBrush>
+                </TextBlock.Foreground>
+            </TextBlock>
+
+        </Grid>
+
+
+
+        <Grid Background="Transparent">
+
+            <!--<Button Grid.Row="0" Grid.Column="2" Width="Auto" Margin="0" x:Name="btnRestore" Visibility="Collapsed" Click="btnRestore_Click">
+                    <Image Source="minimize.png" />
+                </Button>-->
+        </Grid>
+        <ContentControl Grid.Column="2" Grid.Row="2" x:Name="ShowContent" Margin="20 20 20 20" >
+
+        </ContentControl>
+    </Grid>
+</UserControl>

@@ -1,0 +1,196 @@
+﻿<UserControl x:Class="ElC.Report2"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ElC"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid Background="#7B8FA1">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.13*">
+
+            </RowDefinition>
+            <RowDefinition Height="1.1*">
+
+            </RowDefinition>
+            <RowDefinition Height="0.13*">
+
+            </RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition>
+
+                </ColumnDefinition>
+                <ColumnDefinition>
+
+                </ColumnDefinition>
+
+                <ColumnDefinition>
+
+                </ColumnDefinition>
+
+                <ColumnDefinition>
+
+                </ColumnDefinition>
+
+            </Grid.ColumnDefinitions>
+
+            <Grid Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="3" HorizontalAlignment="Center">
+                <TextBlock Margin="0 0 380 5" HorizontalAlignment="Left" VerticalAlignment="Center" FontSize="22" Foreground="White" FontWeight="SemiBold">Name</TextBlock>
+                <ComboBox  x:Name="CustomerORsupplier" Width="145" Height="27"  Margin="0 0 230 0" HorizontalAlignment="Right" VerticalAlignment="Center" AutomationProperties.Name="CustomersCombo" ></ComboBox>
+
+                <ComboBox Width="145" Height="27" x:Name="RefundsOrders" HorizontalAlignment="Right" Margin="0 0 0 0" ></ComboBox>
+            </Grid>
+
+
+
+            <Grid Grid.Row="0" Grid.Column="3">
+                <DatePicker Name="datepicker" VerticalAlignment="Center" FontSize="15" Width="170"></DatePicker>
+            </Grid>
+
+
+        </Grid>
+
+        <!--Grid 2 start-->
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0.2*">
+
+                </ColumnDefinition>
+                <ColumnDefinition Width="1.6*">
+
+                </ColumnDefinition>
+                <ColumnDefinition Width="0.2*">
+
+                </ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Row="1" Grid.Column="1"  Name="Gridone">
+                <DataGrid Visibility="Hidden"
+                    Panel.ZIndex="{Binding grid1}" Margin=" 0 8 8 8"  Name="ProductsGrid" CanUserAddRows="False"  AutoGenerateColumns="False" ColumnWidth="*"
+Background="Wheat"
+BorderThickness="0"
+GridLinesVisibility="None"  >
+
+                    <DataGrid.Columns >
+
+                        <DataGridTextColumn Header="OrderId" Binding="{Binding Id}" IsReadOnly="True" Width="1.3*"/>
+
+                        <DataGridTextColumn Header="CustomerName" Binding="{Binding CustomerName}" IsReadOnly="True" Width="1.9*"/>
+                        <DataGridTextColumn Header="CashierName" Binding="{Binding CashierName}" IsReadOnly="True" Width="1.9*"/>
+                        <DataGridTextColumn Header="TotalPrice" Binding="{Binding TotalPrice}" IsReadOnly="True" Width="1.6*"/>
+                        <DataGridTextColumn Header="Payed" Binding="{Binding Payed}" IsReadOnly="True" Width="1.5*"/>
+                        <DataGridTextColumn Header="Reminder" Binding="{Binding Reminder}" IsReadOnly="True" Width="1.59*"/>
+                        <DataGridTextColumn Header="Date" Binding="{Binding Date}" IsReadOnly="True" Width="2.93*"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Grid>
+            <Grid Grid.Row="1" Grid.Column="1" >
+                <DataGrid Visibility="Hidden"
+                    Panel.ZIndex="{Binding grid1}" Margin=" 0 8 8 8"  Name="ProductsGridReturnedSupplier" CanUserAddRows="False"  AutoGenerateColumns="False" ColumnWidth="*"
+Background="Wheat"
+BorderThickness="0"
+GridLinesVisibility="None"  >
+
+                    <DataGrid.Columns >
+
+                        <DataGridTextColumn Header="OrderId" Binding="{Binding OrderId}" IsReadOnly="True" Width="1.3*"/>
+                        <DataGridTextColumn Header="SupplierName" Binding="{Binding SupplierName}" IsReadOnly="True" Width="1.9*"/>
+                        <DataGridTextColumn Header="ProductName" Binding="{Binding ProductName}" IsReadOnly="True" Width="1.9*"/>
+                        <DataGridTextColumn Header="ProductCount" Binding="{Binding ProductCount}" IsReadOnly="True" Width="1.9*"/>
+                        <DataGridTextColumn Header="TotalPrice" Binding="{Binding TotalPrice}" IsReadOnly="True" Width="1.6*"/>
+                        <DataGridTextColumn Header="Reminder" Binding="{Binding Reminder}" IsReadOnly="True" Width="1.5*"/>
+                        <DataGridTextColumn Header="Payed" Binding="{Binding Payed}" IsReadOnly="True" Width="1.59*"/>
+                        <DataGridTextColumn Header="Date" Binding="{Binding Date}" IsReadOnly="True" Width="2.93*"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Grid>
+            <Grid Grid.Row="1" Grid.Column="1" >
+                <DataGrid Visibility="Hidden"
+                    Panel.ZIndex="{Binding grid1}" Margin=" 0 8 8 8"  Name="ProductsGridOrderSupplier" CanUserAddRows="False"  AutoGenerateColumns="False" ColumnWidth="*"
+Background="Wheat"
+BorderThickness="0"
+GridLinesVisibility="None"  >
+
+                    <DataGrid.Columns >
+
+                        <DataGridTextColumn Header="OrderId" Binding="{Binding OrderId}" IsReadOnly="True" Width="1.3*"/>
+                        <DataGridTextColumn Header="SupplierName" Binding="{Binding SupplierName}" IsReadOnly="True" Width="1.9*"/>
+                        <DataGridTextColumn Header="ProductCount" Binding="{Binding ProductCount}" IsReadOnly="True" Width="1.9*"/>
+                        <DataGridTextColumn Header="TotalPrice" Binding="{Binding TotalPrice}" IsReadOnly="True" Width="1.6*"/>
+                        <DataGridTextColumn Header="Payed" Binding="{Binding Payed}" IsReadOnly="True" Width="1.5*"/>
+                        <DataGridTextColumn Header="Reminder" Binding="{Binding Reminder}" IsReadOnly="True" Width="1.59*"/>
+                        <DataGridTextColumn Header="Date" Binding="{Binding Date}" IsReadOnly="True" Width="2.93*"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Grid>
+            <Grid Grid.Row="1" Grid.Column="1" >
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="577*"/>
+                    <ColumnDefinition Width="63*"/>
+                </Grid.ColumnDefinitions>
+                <DataGrid Visibility="Hidden" Margin="0,8,8,8"  Name="ProductsGridReturned" CanUserAddRows="False"  AutoGenerateColumns="False" ColumnWidth="*"
+Background="Wheat"
+BorderThickness="0"
+GridLinesVisibility="None" Grid.ColumnSpan="2"  >
+
+                    <DataGrid.Columns >
+
+                        <DataGridTextColumn Header="OrderId" Binding="{Binding OrderId}" IsReadOnly="True" Width="1.3*"/>
+
+                        <DataGridTextColumn Header="CustomerName" Binding="{Binding CustomerName}" IsReadOnly="True" Width="1.9*"/>
+                        <DataGridTextColumn Header="ProductName" Binding="{Binding ProductName}" IsReadOnly="True" Width="1.9*"/>
+                        <DataGridTextColumn Header="ProductCount" Binding="{Binding ProductCount}" IsReadOnly="True" Width="1.9*"/>
+
+                        <DataGridTextColumn Header="TotalPrice" Binding="{Binding TotalPrice}" IsReadOnly="True" Width="1.6*"/>
+                        <DataGridTextColumn Header="Payed" Binding="{Binding Payed}" IsReadOnly="True" Width="1.5*"/>
+                        <DataGridTextColumn Header="Reminder" Binding="{Binding Reminder}" IsReadOnly="True" Width="1.59*"/>
+                        <DataGridTextColumn Header="Date" Binding="{Binding Date}" IsReadOnly="True" Width="2.93*"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </Grid>
+        </Grid>
+        <Grid Grid.Row="2" Width="100" Height="40">
+            <Border>
+
+                <!--<Button BorderBrush="Red" x:Name="PrintBtn" FontFamily="Impact" Click="PrintBtn_Click" >Print</Button>-->
+                <Button x:Name="PrintBtn"
+                            Content="Show"
+                            Margin="0 0 0 0"
+                            Foreground="Black"
+                            BorderThickness="4"
+                            Grid.Column="0"
+                            FontSize="20"
+                            FontWeight="Bold"
+                            Click="PrintBtn_Click"
+                            >
+
+                    <Button.Style>
+                        <Style TargetType="Button">
+                            <Setter Property="Background" Value="White"></Setter>
+                            <Setter Property="BorderBrush" Value="White"></Setter>
+                            <Setter Property="BorderThickness" Value="4"></Setter>
+
+
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="red" ></Setter>
+                                    <Setter Property="Cursor" Value="Hand"></Setter>
+
+                                </Trigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                    <Button.Template>
+                        <ControlTemplate TargetType="Button">
+                            <Border CornerRadius="9" Width="100" Height="39" Background="{TemplateBinding Background}">
+                                <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"></ContentPresenter>
+                            </Border>
+                        </ControlTemplate>
+                    </Button.Template>
+                </Button>
+            </Border>
+        </Grid>
+    </Grid>
+</UserControl>

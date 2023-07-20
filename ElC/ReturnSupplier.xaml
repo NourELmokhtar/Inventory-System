@@ -1,0 +1,179 @@
+﻿<UserControl x:Class="ElC.ReturnSupplier"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ElC"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Border BorderBrush="#7B8FA1" BorderThickness="5" CornerRadius="25" Background="White">
+        <Grid >
+
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0.4*">
+
+                    </ColumnDefinition>
+                    <ColumnDefinition>
+
+                    </ColumnDefinition>
+
+
+                </Grid.ColumnDefinitions>
+
+
+                <Grid Grid.Column="0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition>
+
+                        </RowDefinition>
+                        <RowDefinition>
+
+                        </RowDefinition>
+                        <RowDefinition>
+
+                        </RowDefinition>
+                        <RowDefinition>
+
+                        </RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <Grid Grid.Row="0">
+                        <TextBlock Margin="0,10,0,0" HorizontalAlignment="Center" FontSize="18" FontFamily="Cooper Black" Foreground="Black">Bill Number</TextBlock>
+                        <ComboBox  Width="170" Height="25" Name="OrderID" SelectionChanged="OrderID_SelectionChanged" Background="Chocolate"></ComboBox>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <TextBlock Margin="0,10,0,0" HorizontalAlignment="Center" FontSize="18" FontFamily="Cooper Black" Foreground="Black" >Product Name</TextBlock>
+                        <TextBox x:Name="productnametextbox"  Width="170" Height="25" IsReadOnly="True" BorderBrush="#7B8FA1" BorderThickness="3"></TextBox>
+
+                    </Grid>
+                    <Grid Grid.Row="2">
+                        <TextBlock Margin="0,10,0,0" HorizontalAlignment="Center" FontSize="18" FontFamily="Cooper Black" Foreground="Black">Quantity</TextBlock>
+                        <TextBox  x:Name="producttoreturn" Width="170" Height="25" BorderBrush="#7B8FA1" BorderThickness="3" ></TextBox>
+
+                    </Grid>
+                    <Grid Grid.Row="3">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition>
+
+                            </ColumnDefinition>
+                            <ColumnDefinition>
+
+                            </ColumnDefinition>
+                        </Grid.ColumnDefinitions>
+
+                        <!--<Button x:Name="btnReturn" Margin="5,0,5,0" Grid.Column="0" Width="120" Height="40" VerticalAlignment="Center" HorizontalAlignment="Center"  FontSize="18" FontFamily="MV Boli" FontWeight="DemiBold" Click="btnReturn_Click">Return</Button>-->
+                        <!--<Button x:Name="btnAdd" Grid.Column="1" Width="120" Height="40" VerticalAlignment="Center" HorizontalAlignment="Center"  FontSize="18" FontFamily="MV Boli" FontWeight="DemiBold" Click="Button_Click_2">Add</Button>-->
+
+                        <Button x:Name="btnReturn"
+                            Content="Return"
+                            BorderThickness="0"
+                            Margin="0 0 0 0"
+                            Foreground="White"
+                            Grid.Column="0"
+                            FontSize="20"
+                            FontWeight="Bold"
+                            Click="btnReturn_Click"
+                            >
+
+                            <Button.Style>
+                                <Style TargetType="Button">
+                                    <Setter Property="Background" Value="#7B8FA1"></Setter>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" Value="red" ></Setter>
+                                            <Setter Property="Cursor" Value="Hand"></Setter>
+
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border CornerRadius="9" Width="100" Height="39" Background="{TemplateBinding Background}">
+                                        <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"></ContentPresenter>
+                                    </Border>
+                                </ControlTemplate>
+                            </Button.Template>
+                        </Button>
+
+
+                        <Button x:Name="btnAdd"
+                            Content="Add"
+                            BorderThickness="0"
+                            Margin="0 0 0 0"
+                            Foreground="White"
+                            Grid.Column="1"
+                            FontSize="20"
+                            FontWeight="Bold"
+                            Click="btnAdd_Click"
+                            >
+
+                            <Button.Style>
+                                <Style TargetType="Button">
+                                    <Setter Property="Background" Value="#7B8FA1"></Setter>
+                                    <Style.Triggers>
+                                        <Trigger Property="IsMouseOver" Value="True">
+                                            <Setter Property="Background" Value="#FFE15D"></Setter>
+                                            <Setter Property="Cursor" Value="Hand"></Setter>
+
+                                        </Trigger>
+                                    </Style.Triggers>
+                                </Style>
+                            </Button.Style>
+                            <Button.Template>
+                                <ControlTemplate TargetType="Button">
+                                    <Border CornerRadius="9" Width="100" Height="40" Background="{TemplateBinding Background}">
+                                        <ContentPresenter VerticalAlignment="Center" HorizontalAlignment="Center"></ContentPresenter>
+                                    </Border>
+                                </ControlTemplate>
+                            </Button.Template>
+                        </Button>
+
+                    </Grid>
+                </Grid>
+                <Grid Grid.Column="1"  >
+                    <Grid.RowDefinitions>
+                        <RowDefinition>
+
+                        </RowDefinition>
+                        <RowDefinition>
+
+                        </RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <DataGrid Margin=" 10 8 8 8"  Name="Product" CanUserAddRows="False"  AutoGenerateColumns="False" ColumnWidth="*"
+                                Background="#BDCDD6"
+                                BorderThickness="4"
+                                  BorderBrush="#BDCDD6"                               GridLinesVisibility="None" SelectedCellsChanged="Product_SelectedCellsChanged"    >
+
+                            <DataGrid.Columns>
+
+
+                                <DataGridTextColumn Header="productname" Binding="{Binding productname}" IsReadOnly="True" Width="1.1*" />
+                                <DataGridTextColumn Header="suppliername" Binding="{Binding suppliername}" IsReadOnly="True" Width="1*"/>
+                                <DataGridTextColumn Header="ProductQuantity" Binding="{Binding ProductQuantity}" IsReadOnly="True" Width="1.3*"/>
+                                <DataGridTextColumn Header="Date" Binding="{Binding Date}" IsReadOnly="True" Width="1.59*"/>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </Grid>
+                    <Grid Grid.Row="1">
+                        <DataGrid Margin=" 10 8 8 8"  Name="ReturnedProduct" CanUserAddRows="False"  AutoGenerateColumns="False" ColumnWidth="*" 
+                                Background="#BDCDD6"
+                                BorderThickness="4"
+                                  BorderBrush="#BDCDD6"
+                                GridLinesVisibility="None"  >
+
+                            <DataGrid.Columns >
+                                <DataGridTextColumn Header="productname" Binding="{Binding productname}" IsReadOnly="True" Width="1.1*"/>
+                                <DataGridTextColumn Header="suppliername" Binding="{Binding suppliername}" IsReadOnly="True" Width="1*"/>
+                                <DataGridTextColumn Header="ProductQuantity" Binding="{Binding ProductQuantity}" IsReadOnly="True" Width="1.59*"/>
+                                <DataGridTextColumn Header="Date" Binding="{Binding Date}" IsReadOnly="True" Width="1.3*"/>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </Grid>
+                </Grid>
+            </Grid>
+        </Grid>
+    </Border>
+</UserControl>

@@ -1,0 +1,751 @@
+E:\iti\LinQ\ElC\ElC\bin\Debug\net7.0-windows\ElC.exe
+E:\iti\LinQ\ElC\ElC\bin\Debug\net7.0-windows\plug.png
+E:\iti\LinQ\ElC\ElC\bin\Debug\net7.0-windows\ElC.dll
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.AssemblyReference.cache
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\Login.g.cs
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\App.g.cs
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\ElC_Content.g.cs
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\ElC_MarkupCompile.cache
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\ElC_MarkupCompile.lref
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\Login.baml
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\MainWindow.baml
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\ElC.g.resources
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\ElC.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\ElC.AssemblyInfoInputs.cache
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\ElC.AssemblyInfo.cs
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.CoreCompileInputs.cache
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\ElC.dll
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\refint\ElC.dll
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\ElC.pdb
+E:\iti\LinQ\ElC\ElC\bin\Debug\net7.0-windows\arrow-left.png
+E:\iti\LinQ\ElC\ElC\bin\Debug\net7.0-windows\dd.png
+E:\iti\LinQ\ElC\ElC\bin\Debug\net7.0-windows\e.png
+E:\iti\LinQ\ElC\ElC\bin\Debug\net7.0-windows\electronics.png
+E:\iti\LinQ\ElC\ElC\bin\Debug\net7.0-windows\iconn.png
+E:\iti\LinQ\ElC\ElC\bin\Debug\net7.0-windows\image.png
+E:\iti\LinQ\ElC\ElC\bin\Debug\net7.0-windows\s.png
+E:\iti\LinQ\ElC\ElC\bin\Debug\net7.0-windows\tt.png
+E:\iti\LinQ\ElC\ElC\bin\Debug\net7.0-windows\ElC.deps.json
+E:\iti\LinQ\ElC\ElC\bin\Debug\net7.0-windows\ElC.runtimeconfig.json
+E:\iti\LinQ\ElC\ElC\bin\Debug\net7.0-windows\ElC.pdb
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\ElC.genruntimeconfig.cache
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\ref\ElC.dll
+E:\iti\LinQ\ElC\ElC\bin\Debug\net7.0-windows\col.png
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\Home.g.cs
+E:\iti\LinQ\ElC\ElC\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+E:\iti\LinQ\ElC\ElC\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\Home.baml
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.CopyComplete
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\Homme.g.cs
+E:\iti\LinQ\ElC\ElC\obj\Debug\net7.0-windows\Homme.baml
+E:\iti\MVC\ElC\ElC\bin\Debug\net7.0-windows\ElC.exe
+E:\iti\MVC\ElC\ElC\bin\Debug\net7.0-windows\arrow-left.png
+E:\iti\MVC\ElC\ElC\bin\Debug\net7.0-windows\col.png
+E:\iti\MVC\ElC\ElC\bin\Debug\net7.0-windows\dd.png
+E:\iti\MVC\ElC\ElC\bin\Debug\net7.0-windows\e.png
+E:\iti\MVC\ElC\ElC\bin\Debug\net7.0-windows\electronics.png
+E:\iti\MVC\ElC\ElC\bin\Debug\net7.0-windows\iconn.png
+E:\iti\MVC\ElC\ElC\bin\Debug\net7.0-windows\image.png
+E:\iti\MVC\ElC\ElC\bin\Debug\net7.0-windows\plug.png
+E:\iti\MVC\ElC\ElC\bin\Debug\net7.0-windows\s.png
+E:\iti\MVC\ElC\ElC\bin\Debug\net7.0-windows\tt.png
+E:\iti\MVC\ElC\ElC\bin\Debug\net7.0-windows\ElC.deps.json
+E:\iti\MVC\ElC\ElC\bin\Debug\net7.0-windows\ElC.runtimeconfig.json
+E:\iti\MVC\ElC\ElC\bin\Debug\net7.0-windows\ElC.dll
+E:\iti\MVC\ElC\ElC\bin\Debug\net7.0-windows\ElC.pdb
+E:\iti\MVC\ElC\ElC\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+E:\iti\MVC\ElC\ElC\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.AssemblyReference.cache
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\Homme.g.cs
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\Login.g.cs
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\App.g.cs
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\ElC_Content.g.cs
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\ElC_MarkupCompile.cache
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\ElC_MarkupCompile.lref
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\Homme.baml
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\Login.baml
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\MainWindow.baml
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\ElC.g.resources
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\ElC.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\ElC.AssemblyInfoInputs.cache
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\ElC.AssemblyInfo.cs
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.CoreCompileInputs.cache
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.CopyComplete
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\ElC.dll
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\refint\ElC.dll
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\ElC.pdb
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\ElC.genruntimeconfig.cache
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\ref\ElC.dll
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\Report.g.cs
+E:\iti\MVC\ElC\ElC\obj\Debug\net7.0-windows\Report.baml
+C:\Users\noure\Downloads\ElC\ElC\ElC\bin\Debug\net7.0-windows\ElC.exe
+C:\Users\noure\Downloads\ElC\ElC\ElC\bin\Debug\net7.0-windows\arrow-left.png
+C:\Users\noure\Downloads\ElC\ElC\ElC\bin\Debug\net7.0-windows\col.png
+C:\Users\noure\Downloads\ElC\ElC\ElC\bin\Debug\net7.0-windows\dd.png
+C:\Users\noure\Downloads\ElC\ElC\ElC\bin\Debug\net7.0-windows\e.png
+C:\Users\noure\Downloads\ElC\ElC\ElC\bin\Debug\net7.0-windows\electronics.png
+C:\Users\noure\Downloads\ElC\ElC\ElC\bin\Debug\net7.0-windows\iconn.png
+C:\Users\noure\Downloads\ElC\ElC\ElC\bin\Debug\net7.0-windows\image.png
+C:\Users\noure\Downloads\ElC\ElC\ElC\bin\Debug\net7.0-windows\plug.png
+C:\Users\noure\Downloads\ElC\ElC\ElC\bin\Debug\net7.0-windows\s.png
+C:\Users\noure\Downloads\ElC\ElC\ElC\bin\Debug\net7.0-windows\tt.png
+C:\Users\noure\Downloads\ElC\ElC\ElC\bin\Debug\net7.0-windows\ElC.deps.json
+C:\Users\noure\Downloads\ElC\ElC\ElC\bin\Debug\net7.0-windows\ElC.runtimeconfig.json
+C:\Users\noure\Downloads\ElC\ElC\ElC\bin\Debug\net7.0-windows\ElC.dll
+C:\Users\noure\Downloads\ElC\ElC\ElC\bin\Debug\net7.0-windows\ElC.pdb
+C:\Users\noure\Downloads\ElC\ElC\ElC\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\noure\Downloads\ElC\ElC\ElC\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.AssemblyReference.cache
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\Homme.g.cs
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\Login.g.cs
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\Report.g.cs
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC_Content.g.cs
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC_MarkupCompile.cache
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC_MarkupCompile.lref
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\Homme.baml
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\Login.baml
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\Report.baml
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.g.resources
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.AssemblyInfoInputs.cache
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.AssemblyInfo.cs
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.CoreCompileInputs.cache
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.CopyComplete
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.dll
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\refint\ElC.dll
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.pdb
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.genruntimeconfig.cache
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\ref\ElC.dll
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\Supplier.g.cs
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\Supplier.baml
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\Customer.g.cs
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\Customer.baml
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\LoginAsKashier.g.cs
+C:\Users\noure\Downloads\ElC\ElC\ElC\obj\Debug\net7.0-windows\LoginAsKashier.baml
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.AssemblyReference.cache
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\Customer.g.cs
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\Homme.g.cs
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\Login.g.cs
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\LoginAsKashier.g.cs
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\MainWindow.g.cs
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\Supplier.g.cs
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\App.g.cs
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC_Content.g.cs
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC_MarkupCompile.cache
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC_MarkupCompile.lref
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.dll
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\refint\ElC.dll
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.pdb
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\ElC.exe
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\arrow-left.png
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\col.png
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\dd.png
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\e.png
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\electronics.png
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\iconn.png
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\image.png
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\plug.png
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\s.png
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\tt.png
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\ElC.deps.json
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\ElC.runtimeconfig.json
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\ElC.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\ElC.pdb
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Azure.Core.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Azure.Identity.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Humanizer.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\System.Memory.Data.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\Customer.baml
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\Homme.baml
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\Login.baml
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\LoginAsKashier.baml
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\MainWindow.baml
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\Supplier.baml
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.g.resources
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.AssemblyInfoInputs.cache
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.AssemblyInfo.cs
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.CoreCompileInputs.cache
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.CopyComplete
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.genruntimeconfig.cache
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\ref\ElC.dll
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.Reports.resources
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.GenerateResource.cache
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\Report2.g.cs
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\Report2.baml
+D:\Project\ElC\ElC\ElC\bin\Debug\net7.0-windows\vedio.mp4
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\StartPage.g.cs
+D:\Project\ElC\ElC\ElC\obj\Debug\net7.0-windows\StartPage.baml
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\ElC.exe
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\arrow-left.png
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\col.png
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\dd.png
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\e.png
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\iconn.png
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\image.png
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\plug.png
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\s.png
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\tt.png
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\vedio.mp4
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\ElC.deps.json
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\ElC.runtimeconfig.json
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\ElC.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\ElC.pdb
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.AssemblyReference.cache
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\Customer.g.cs
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\Homme.g.cs
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\Login.g.cs
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\LoginAsKashier.g.cs
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\Report2.g.cs
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\StartPage.g.cs
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\Supplier.g.cs
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC_Content.g.cs
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC_MarkupCompile.cache
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC_MarkupCompile.lref
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\Customer.baml
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\Homme.baml
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\Login.baml
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\LoginAsKashier.baml
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\Report2.baml
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\StartPage.baml
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\Supplier.baml
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.g.resources
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.Reports.resources
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.GenerateResource.cache
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.AssemblyInfoInputs.cache
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.AssemblyInfo.cs
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.CoreCompileInputs.cache
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.CopyComplete
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\refint\ElC.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.pdb
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\ElC.genruntimeconfig.cache
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\ref\ElC.dll
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\NewSupplier.g.cs
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\obj\Debug\net7.0-windows\NewSupplier.baml
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\iconSt.png
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\ee.png
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\electric.png
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\iso.png
+C:\Users\Eman Hamza\Documents\ElC\ElC\ElC\bin\Debug\net7.0-windows\left-arrow.png
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ElC.exe
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\electric.png
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\arrow-left.png
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\col.png
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\dd.png
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\e.png
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ee.png
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\iconn.png
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\iconSt.png
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\image.png
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\iso.png
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\left-arrow.png
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\plug.png
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\s.png
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\tt.png
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\vedio.mp4
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ElC.deps.json
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ElC.runtimeconfig.json
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ElC.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ElC.pdb
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.AssemblyReference.cache
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Customer.g.cs
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Homme.g.cs
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Login.g.cs
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\LoginAsKashier.g.cs
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\NewSupplier.g.cs
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Report2.g.cs
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\StartPage.g.cs
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Supplier.g.cs
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC_Content.g.cs
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC_MarkupCompile.cache
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC_MarkupCompile.lref
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Customer.baml
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Homme.baml
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Login.baml
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\LoginAsKashier.baml
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\NewSupplier.baml
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Report2.baml
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\StartPage.baml
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Supplier.baml
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.g.resources
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.Reports.resources
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.GenerateResource.cache
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.AssemblyInfoInputs.cache
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.AssemblyInfo.cs
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.CoreCompileInputs.cache
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.CopyComplete
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\refint\ElC.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.pdb
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.genruntimeconfig.cache
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ref\ElC.dll
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Bill.g.cs
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Bill.baml
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Return.g.cs
+C:\Users\Eman Hamza\Documents\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Return.baml
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ElC.exe
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\electric.png
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\arrow-left.png
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\col.png
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\dd.png
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\e.png
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ee.png
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\iconn.png
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\iconSt.png
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\image.png
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\iso.png
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\left-arrow.png
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\plug.png
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\s.png
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\tt.png
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\vedio.mp4
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ElC.deps.json
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ElC.runtimeconfig.json
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ElC.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ElC.pdb
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Azure.Core.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Azure.Identity.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\System.Memory.Data.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.AssemblyReference.cache
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Bill.g.cs
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Customer.g.cs
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Homme.g.cs
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Login.g.cs
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\LoginAsKashier.g.cs
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\NewSupplier.g.cs
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Report2.g.cs
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Return.g.cs
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\StartPage.g.cs
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Supplier.g.cs
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC_Content.g.cs
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC_MarkupCompile.cache
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC_MarkupCompile.lref
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Bill.baml
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Customer.baml
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Homme.baml
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Login.baml
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\LoginAsKashier.baml
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\NewSupplier.baml
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Report2.baml
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Return.baml
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\StartPage.baml
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Supplier.baml
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.g.resources
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.Reports.resources
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.GenerateResource.cache
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.AssemblyInfoInputs.cache
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.AssemblyInfo.cs
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.CoreCompileInputs.cache
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.CopyComplete
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\refint\ElC.dll
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.pdb
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.genruntimeconfig.cache
+C:\Users\noure\OneDrive\Desktop\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ref\ElC.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ElC.exe
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\electric.png
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\arrow-left.png
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\col.png
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\dd.png
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\e.png
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ee.png
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\iconn.png
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\iconSt.png
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\image.png
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\iso.png
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\left-arrow.png
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\plug.png
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\rr.png
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\s.png
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\tt.png
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\vedio.mp4
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ElC.deps.json
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ElC.runtimeconfig.json
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ElC.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ElC.pdb
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Azure.Core.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Azure.Identity.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Humanizer.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\System.Memory.Data.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.AssemblyReference.cache
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Customer.g.cs
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\CustomerBill.g.cs
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Founding.g.cs
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Homme.g.cs
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Login.g.cs
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\LoginAsKashier.g.cs
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\NewSupplier.g.cs
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Report2.g.cs
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Return.g.cs
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ReturnSupplier.g.cs
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\StartPage.g.cs
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Supplier.g.cs
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\SupplierBill.g.cs
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\App.g.cs
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC_Content.g.cs
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC_MarkupCompile.cache
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC_MarkupCompile.lref
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Customer.baml
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\CustomerBill.baml
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Founding.baml
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Homme.baml
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Login.baml
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\LoginAsKashier.baml
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\MainWindow.baml
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\NewSupplier.baml
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Report2.baml
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Return.baml
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ReturnSupplier.baml
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\StartPage.baml
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Supplier.baml
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\SupplierBill.baml
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.g.resources
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.GeneratedMSBuildEditorConfig.editorconfig
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.AssemblyInfoInputs.cache
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.AssemblyInfo.cs
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.CoreCompileInputs.cache
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.CopyComplete
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.dll
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\refint\ElC.dll
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.pdb
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.genruntimeconfig.cache
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ref\ElC.dll
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\fl.png
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\flo.png
+F:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\sk.png
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\FoundingSupplier.g.cs
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\FoundingSupplier.baml
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Statistics.g.cs
+F:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Statistics.baml
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ElC.exe
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\electric.png
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\arrow-left.png
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\col.png
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\dd.png
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\e.png
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ee.png
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\fl.png
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\flo.png
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\iconn.png
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\iconSt.png
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\image.png
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\iso.png
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\left-arrow.png
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\plug.png
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\rr.png
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\s.png
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\sk.png
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\tt.png
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\vedio.mp4
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ElC.deps.json
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ElC.runtimeconfig.json
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ElC.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\ElC.pdb
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Azure.Core.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Azure.Identity.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Humanizer.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Core.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\MahApps.Metro.IconPacks.Material.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Data.SqlClient.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Identity.Client.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Microsoft.SqlServer.Server.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\System.Memory.Data.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\System.Runtime.Caching.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\EDIS\ElC\ElC\bin\Debug\net7.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.AssemblyReference.cache
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Customer.g.cs
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\CustomerBill.g.cs
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Founding.g.cs
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\FoundingSupplier.g.cs
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Homme.g.cs
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Login.g.cs
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\LoginAsKashier.g.cs
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\MainWindow.g.cs
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\NewSupplier.g.cs
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Report2.g.cs
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Return.g.cs
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ReturnSupplier.g.cs
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\StartPage.g.cs
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Statistics.g.cs
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Supplier.g.cs
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\SupplierBill.g.cs
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\App.g.cs
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC_Content.g.cs
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC_MarkupCompile.cache
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC_MarkupCompile.lref
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Customer.baml
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\CustomerBill.baml
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Founding.baml
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\FoundingSupplier.baml
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Homme.baml
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Login.baml
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\LoginAsKashier.baml
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\MainWindow.baml
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\NewSupplier.baml
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Report2.baml
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Return.baml
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ReturnSupplier.baml
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\StartPage.baml
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Statistics.baml
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\Supplier.baml
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\SupplierBill.baml
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.g.resources
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.GeneratedMSBuildEditorConfig.editorconfig
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.AssemblyInfoInputs.cache
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.AssemblyInfo.cs
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.CoreCompileInputs.cache
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.csproj.CopyComplete
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.dll
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\refint\ElC.dll
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.pdb
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ElC.genruntimeconfig.cache
+E:\EDIS\ElC\ElC\obj\Debug\net7.0-windows\ref\ElC.dll
